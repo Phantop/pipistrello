@@ -1,0 +1,244 @@
+Acquire(Scripting.Group): Scripting.Group
+AcquireAndFollow(Scripting.Group): Enumerable
+Activate(Scripting.Group): Scripting.Group
+AmbientColorFadeTo(color: String, seconds: Single): Enumerable
+AnimateShake(Scripting.Group, duration: Single, magnitude: Vector3): Scripting.Group
+Area4SupportersAdd(): Enumerable
+Auntie(): Enumerable
+AuntieDetached(): Enumerable
+AuntieFromYoyo(): Enumerable
+AuntieHidden(): Enumerable
+BattleEnd(): Enumerable
+BattleStart(): Enumerable
+BossEnd(): Enumerable
+BossStart(group: Scripting.Group): Enumerable
+BpContainerGive(id: String, bpNum: Integer): Enumerable
+BreakableFloorRestore(): Enumerable
+BringTo(Scripting.Group, pathOffset: Single, forward: Nullable(Of Boolean)): Scripting.Group
+CameraCloseFade(): Enumerable
+CameraCloseFadeBlack(): Enumerable
+CameraCloseFadeBlackSlow(): Enumerable
+CameraCloseFadeEthereal(): Enumerable
+CameraCloseFadeFast(): Enumerable
+CameraClosePeephole(): Enumerable
+CameraClosePeepholeAtPlayer(): Enumerable
+CameraIsClosed(): Boolean
+CameraLookAt(pos: Vector3): Enumerable
+CameraObserve(pos: Vector3): Enumerable
+CameraOpenFade(): Enumerable
+CameraOpenFadeBlack(): Enumerable
+CameraOpenFadeBlackSlow(): Enumerable
+CameraOpenFadeEthereal(): Enumerable
+CameraOpenFadeFast(): Enumerable
+CameraOpenPeephole(): Enumerable
+CameraOpenPeepholeAtPlayer(): Enumerable
+CameraPanLine(from: Vector3, [to]: Vector3, duration: Single): Enumerable
+CameraPanLineSmooth(from: Vector3, [to]: Vector3, duration: Single): Enumerable
+CameraReset(): Enumerable
+ChallengeStart(Scripting.Group, timeoutSeconds: Single): Enumerable
+CharIntroPlay(charId: String): Enumerable
+Cloned(Scripting.Group): Scripting.Group
+Count(Scripting.Group): Integer
+CreditsPlay(): Enumerable
+Deactivate(Scripting.Group): Scripting.Group
+DeactivateWithPoof(Scripting.Group): Scripting.Group
+Dec(Scripting.Flag): Scripting.Flag
+DefeatCounterGet(): Integer
+Destroy(Scripting.Group): Scripting.Group
+DestroyWithPoof(Scripting.Group): Scripting.Group
+DialogueChoiceAdd(stringId: String): Integer
+DialogueChoiceAddCancel(stringId: String): Integer
+Enemies(): Scripting.Group
+EquipBlueprintGive(equipId: String): Enumerable
+EquipGive(equipId: String): Enumerable
+ExecuteString(name: String, target: Global.Il2CppSystem.[Object], code: String): Enumerable
+Exists(Scripting.Group): Boolean
+ExplosionGameOver(): Enumerable
+FaceD(Scripting.Group): Scripting.Group
+FaceDAsync(Scripting.Group): Scripting.Group
+FaceL(Scripting.Group): Scripting.Group
+FaceLAsync(Scripting.Group): Scripting.Group
+FaceR(Scripting.Group): Scripting.Group
+FaceRAsync(Scripting.Group): Scripting.Group
+FaceTo(Scripting.Group, targetGroup: Scripting.Group): Scripting.Group
+FaceToDir(Scripting.Group, vec: Vector3): Scripting.Group
+FaceToDirAsync(Scripting.Group, vec: Vector3): Scripting.Group
+FaceU(Scripting.Group): Scripting.Group
+FaceUAsync(Scripting.Group): Scripting.Group
+FallFromTheSky(Scripting.Group): Enumerable
+FallFromTheSkyAsync(Scripting.Group): Scripting.Group
+FilterActive(Scripting.Group): Scripting.Group
+FilterDeactivated(Scripting.Group): Scripting.Group
+FilterEnemies(Scripting.Group): Scripting.Group
+FilterRoomNatural(Scripting.Group): Scripting.Group
+FinalBoss1Start(group: Scripting.Group): Enumerable
+FinalBoss2Start(group: Scripting.Group): Enumerable
+Finish(Scripting.Group): Enumerable
+Flag(name: String): Scripting.Flag
+FlagSaveAbilities(): Scripting.SavedFlags
+FootballScorePlay(scoringTeam: Integer): Enumerable
+FootballStartPlay(): Enumerable
+ForceIdle(Scripting.Group): Scripting.Group
+FramestampGet(): Integer
+FreeYoyo(Scripting.Group): Scripting.Group
+FullRestore(Scripting.Group): Scripting.Group
+FullRestorePlay(): Enumerable
+GameOver(): Enumerable
+GetFollowItem(Scripting.Group, objectDefName: String): Scripting.Group
+GetHeldItem(Scripting.Group): Scripting.Group
+GetMessage(Scripting.Group): String
+GetRuneMessage(index: Integer): String
+GetState(Scripting.Group): Integer
+Get_Chosen(Scripting.Dialogue): Integer
+Get_DefName(Scripting.Group): String
+Get_Destination(Scripting.Group): String
+Get_Life(Scripting.Group): Single
+Get_LifeMax(Scripting.Group): Single
+Get_LifeMin(Scripting.Group): Single
+Get_LifePercent(Scripting.Group): Single
+Get_Pos(Scripting.Group): Vector3
+Get_PosStart(Scripting.Group): Vector3
+Group(group1: Scripting.Group, group2: Scripting.Group): Scripting.Group
+HeldCancel(Scripting.Group): Scripting.Group
+Highlight(Scripting.Group): Enumerable
+HighlightReset(): Enumerable
+HolderCancel(Scripting.Group): Scripting.Group
+Id(id: String): Scripting.Group
+Inc(Scripting.Flag): Scripting.Flag
+IsActive(Scripting.Group): Boolean
+IsOn(Scripting.Flag): Boolean
+IsVisibleInCamera(Scripting.Group, margin: Nullable(Of Single)): Boolean
+JumpTo(Scripting.Group, pos: Vector3, duration: Nullable(Of Single)): Enumerable
+JumpToAsync(Scripting.Group, pos: Vector3, duration: Nullable(Of Single)): Scripting.Group
+JumpToNearestAsync(Scripting.Group, targetGroup: Scripting.Group, duration: Nullable(Of Single)): Scripting.Group
+JumpToStartingPos(Scripting.Group, duration: Nullable(Of Single)): Scripting.Group
+Kill(Scripting.Group): Scripting.Group
+LearnAbilityShow(abilityId: String): Enumerable
+Lock(Scripting.Group): Scripting.Group
+LookAt(Scripting.Group, offset: Nullable(Of Vector3)): Enumerable
+LookAtAsync(Scripting.Group, offset: Nullable(Of Vector3)): Scripting.Group
+MapClose(): Enumerable
+MapOpen(): Enumerable
+MapPinAddAnimated(globalObjectId: String): Enumerable
+MapRevealArea4Supporter(): Enumerable
+MapRevealBpContainer(): Enumerable
+MapRevealEquip(): Enumerable
+MapRevealPetalContainer(): Enumerable
+MapRevealUnvisitedRoom(): Enumerable
+MinigameEnd(): Enumerable
+MinigameStart(): Enumerable
+MinorEnemies(): Scripting.Group
+MoneyGet(): Integer
+MoneyHas(amount: Integer): Boolean
+MoneyTrySpend(amount: Integer): Boolean
+MoveTo(Scripting.Group, pos: Vector3): Enumerable
+MoveToAsync(Scripting.Group, pos: Vector3): Scripting.Group
+MoveToDelta(Scripting.Group, deltaPos: Vector3): Enumerable
+MoveToDeltaAsync(Scripting.Group, deltaPos: Vector3): Scripting.Group
+MoveToNearest(Scripting.Group, targetGroup: Scripting.Group): Enumerable
+MoveToNearestAsync(Scripting.Group, targetGroup: Scripting.Group): Scripting.Group
+MusicWaitStart(): Enumerable
+Obj(type: String): Scripting.Group
+Observe(Scripting.Group): Enumerable
+Overlapping(Scripting.Group): Scripting.Group
+PetalContainerGive(id: String, petalNum: Integer): Enumerable
+PlaceAtStartingPos(Scripting.Group): Scripting.Group
+Player(): Scripting.Group
+PostCreditsOpen(): Enumerable
+RandomRange(seed: Integer, min: Integer, maxExclusive: Integer): Integer
+ReactExclamation(Scripting.Group): Enumerable
+ReactExclamationAsync(Scripting.Group): Scripting.Group
+RefinementOpen(): Enumerable
+Refresh(Scripting.Group): Scripting.Group
+ResetAnimSpeed(Scripting.Group): Scripting.Group
+ResetMove(Scripting.Group): Scripting.Group
+Revive(Scripting.Group): Scripting.Group
+RoomCounterGet(): Integer
+Say(Scripting.Dialogue, text: String): Enumerable
+Say(Scripting.Group, text: String): Enumerable
+Say(text: String): Enumerable
+ScenePlay(sceneId: String): Enumerable
+ScenePlay(Scripting.Group, sceneId: String): Enumerable
+SetAccel(Scripting.Group, accel: Single): Scripting.Group
+SetActivity(Scripting.Group, activity: String): Scripting.Group
+SetAnim(Scripting.Group, anim: String): Scripting.Group
+SetAnimIdleRun(Scripting.Group, animIdle: String, animRun: String): Scripting.Group
+SetAnimSpeed(Scripting.Group, speed: Single): Scripting.Group
+SetCode(Scripting.Group, fn: Runtime.[Function]): Scripting.Group
+SetDespawn(Scripting.Group, value: Integer): Scripting.Group
+SetDramaticDefeated(Scripting.Group, withSpoils: Boolean): Scripting.Group
+SetFixedFaceDir(Scripting.Group, fixedFaceDir: Boolean): Scripting.Group
+SetIgnoreWalls(Scripting.Group, ignore: Boolean): Scripting.Group
+SetLife(Scripting.Group, life: Single): Scripting.Group
+SetLifeMinPercent(Scripting.Group, percent: Single): Scripting.Group
+SetMaxSpeed(Scripting.Group, speed: Single): Scripting.Group
+SetNotification(Scripting.Group, notification: String): Scripting.Group
+SetPeaceful(Scripting.Group, peaceful: Boolean): Scripting.Group
+SetPersonalityId(Scripting.Group, id: String): Scripting.Group
+SetPhase(Scripting.Group, phase: Integer): Scripting.Group
+SetPos(Scripting.Group, pos: Vector3): Scripting.Group
+SetShopPrice(Scripting.Group, value: Integer): Scripting.Group
+SetUsed(Scripting.Group, value: Integer): Scripting.Group
+Set_Life(Scripting.Group, life: Single): Scripting.Group
+Set_LifeMax(Scripting.Group, lifeMax: Single): Scripting.Group
+Set_LifeMin(Scripting.Group, lifeMin: Single): Scripting.Group
+Set_LifePercent(Scripting.Group, percent: Single): Scripting.Group
+ShopOpen(): Enumerable
+ShowLife(Scripting.Group, show: Boolean): Scripting.Group
+SkipIsSkipping(): Boolean
+SkipSetEnabled(enabled: Boolean): Enumerable
+SkipStop(): Enumerable
+SlideshowEnd(): Enumerable
+SlideshowShowSlide(slideId: String): Enumerable
+SlideshowStart(): Enumerable
+SoundPlayCongrats(): Enumerable
+SoundPlayFail(): Enumerable
+Special(Scripting.Group, specialId: String): Scripting.Group
+SpecialObj(Scripting.Group, specialId: String, arg: Scripting.Group): Scripting.Group
+SpecialStr(Scripting.Group, specialId: String, arg: String): Scripting.Group
+Subtract(Scripting.Group, other: Scripting.Group): Scripting.Group
+Tag(tag: String): Scripting.Group
+TaxiPhoneEmbark(group: Scripting.Group, destinationId: String): Enumerable
+TaxiPhoneGetUnlockPrice(group: Scripting.Group): Integer
+TaxiPhoneIsUnlocked(group: Scripting.Group): Boolean
+TaxiPhoneMapOpen(currentTaxiPhone: Scripting.Group): Enumerable
+ThankYouOpen(): Enumerable
+TimerGet(): Single
+TimerGetFrames(): Integer
+TimerIsRunning(): Boolean
+TimerWaitValue(seconds: Single): Enumerable
+Toggle(Scripting.Flag): Scripting.Flag
+TrevososBattleEnd(): Enumerable
+TrevososBattleStart(index: Integer): Enumerable
+TryHold(Scripting.Group, groupToHold: Scripting.Group): Boolean
+TunnelsFallPlay(): Enumerable
+TurnOff(Scripting.Flag): Scripting.Flag
+TurnOn(Scripting.Flag): Scripting.Flag
+Unlock(): Enumerable
+Unlock(Scripting.Group): Scripting.Group
+UpgradeDebtCheckPaidOff(): Boolean
+UpgradeDebtFinishPlay(): Enumerable
+UpgradeHasDebt(): Boolean
+UpgradeRefundOpen(): Enumerable
+UpgradesOpen(): Enumerable
+Wait(seconds: Single): Enumerable
+WaitAnyMessage(Scripting.Group): Enumerable
+WaitDefeat(Scripting.Group): Enumerable
+WaitDestroy(Scripting.Group): Enumerable
+WaitDramaticDefeat(Scripting.Group): Enumerable
+WaitHit(Scripting.Group): Enumerable
+WaitJump(Scripting.Group): Enumerable
+WaitLife(Scripting.Group, lifeMin: Single): Enumerable
+WaitLifePercent(Scripting.Group, percent: Single): Enumerable
+WaitMessage(Scripting.Group, message: String): Enumerable
+WaitMove(Scripting.Group): Enumerable
+WaitTrue(Scripting.Flag): Enumerable
+WaitValue(Scripting.Flag, value: Integer): Enumerable
+WakeUp(Scripting.Group): Scripting.Group
+Warp(destinationStr: String): Enumerable
+WorkshopHasItems(): Boolean
+WorkshopOpen(): Enumerable
+Yield(): Enumerable
+YoyoProjectile(): Scripting.Group
+YoyoShowoffClose(): Enumerable
+YoyoShowoffPlay(): Enumerable
