@@ -1,0 +1,60 @@
+{
+	nextIDs: {
+
+		"": 1,
+
+		julie: 4,
+
+		lor: 4,
+
+	},
+	properties: {
+		dev: true,
+	},
+	rooms: [
+		{ /* lor1 */
+			height: 160,
+			id: "lor1",
+			layers: [
+				{ /* 2 */
+					layerDefId: "2",
+					layerDefName: "objects",
+					objects: [
+						{ /* julie3 */
+							height: 16,
+							id: "julie3",
+							objectDefId: "lor110",
+							objectDefName: "setupCode",
+							properties: {
+								code: "flag(\"g:equip:fallDamageResist:acquired\").set(1)\nflag(\"g:equip:fallDamageResist:equipped\").set(1)\nflag(\"g:equip:fallDamageResist:refined\").set(1)\n\nwarp(\"custom/julie3\")",
+								mode: "runOncePerRoom",
+							},
+							width: 16,
+							x: 0,
+							y: 0,
+						} /* julie3 */,
+						{ /* lor3 */
+							height: 16,
+							id: "lor3",
+							objectDefId: "6",
+							objectDefName: "playerDebugSpawn",
+							properties: {
+							},
+							width: 16,
+							x: 40,
+							y: 56,
+						} /* lor3 */,
+					],
+					type: "object",
+				} /* 2 */,
+			],
+			properties: {
+			},
+			width: 288,
+			x: 0,
+			y: 0,
+		} /* lor1 */,
+	],
+	type: "map",
+	version: 3,
+}
