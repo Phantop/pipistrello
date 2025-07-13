@@ -1,0 +1,186 @@
+equip # 1: id `teleport                    `, room `tunnels/ren70           ` [tunnels     (X+2,[nbsp]Y+1)]
+equip # 2: id `seeEnemyLife                `, room `safehouse/mig38         ` [safehouse   (X+0,[nbsp]Y+0)]
+equip # 3: id `thrownObjectAttackUp        `, room `city/yug5210            ` [plaza1      (X-2,[nbsp]Y+4)] (blueprint $500)
+equip # 4: id `walkTheDogFireTrail         `, room `city/ren355             ` [plaza1      (X-1,[nbsp]Y-5)]
+equip # 5: id `walletAttackUp              `, room `city/lor2248            ` [plaza1      (X+0,[nbsp]Y+5)]
+equip # 6: id `moneyMagnet                 `, room `city/ren3949            ` [area1       (X-9,[nbsp]Y-2)]
+equip # 7: id `moneyDeathSafetyUp          `, room `city/yug3472            ` [area1       (X-8,[nbsp]Y+1)]
+equip # 8: id `walkTheDogControl           `, room `city/lor1916            ` [area1       (X-7,[nbsp]Y+4)]
+equip # 9: id `maxLifeUp                   `, room `city/ren4154            ` [area1       (X-5,[nbsp]Y+3)]
+equip #10: id `roseSpoilsUp                `, room `city/lor547             ` [area1       (X-3,[nbsp]Y+1)]
+equip #11: id `projectileReflect           `, room `city_interiors/ren901   ` [area1       (X-10,[nbsp]Y-4)] (blueprint $350)
+equip #12: id `waterJump                   `, room `city_underground/ren1577` [area1       (X-8,[nbsp]Y+0)]
+equip #13: id `movementSpeedUp             `, room `city_underground/yug969 ` [area1       (X-2,[nbsp]Y-3)]
+equip #14: id `hurtInvulnerabilityUp       `, room `policedep/ren28         ` [policedep   (X+1,[nbsp]Y-3)]
+equip #15: id `attackUpMaxLifeCap          `, room `city_interiors/ren93    ` [trevosos    (X-10,[nbsp]Y-6)]
+equip #16: id `stringLengthUp              `, room `dungeon1/yug223         ` [dungeon1    (X-6,[nbsp]Y-4)]
+equip #17: id `attackUp                    `, room `dungeon1/ren9749        ` [dungeon1    (X+0,[nbsp]Y-9)] (blueprint $650)
+equip #18: id `stringedYoyoSpeedDown       `, room `dungeon1/ren4438        ` [dungeon1    (X+1,[nbsp]Y-3)]
+equip #19: id `stringKnockbackUp           `, room `city/yug2099            ` [area2       (X+6,[nbsp]Y+3)] (blueprint $700)
+equip #20: id `respawnLifeUp               `, room `city/yug171             ` [area2       (X+7,[nbsp]Y-6)]
+equip #21: id `hurtDodgeEveryNth           `, room `city/yug3345            ` [area2       (X+9,[nbsp]Y-4)]
+equip #22: id `moneySpoilsUp               `, room `city_interiors/yug119   ` [area2       (X+3,[nbsp]Y+1)]
+equip #23: id `moneyLifeRegen              `, room `city_underground/yug26  ` [area2       (X+6,[nbsp]Y+0)]
+equip #24: id `stringedYoyoBounceAttackUp  `, room `city_underground/yug1206` [area2       (X+7,[nbsp]Y+4)]
+equip #25: id `projectileYoyoControl       `, room `city_underground/yug1330` [area2       (X+9,[nbsp]Y+1)]
+equip #26: id `stringStunDurationUp        `, room `skyscraper/lor54        ` [skyscraper  (X+4,[nbsp]Y-1)] (blueprint $300)
+equip #27: id `lowLifeAttackUp             `, room `dungeon2/lor770         ` [dungeon2    (X+2,[nbsp]Y+4)] (blueprint $850)
+equip #28: id `fallDamageResist            `, room `dungeon2/lor1228        ` [dungeon2    (X+5,[nbsp]Y-1)]
+equip #29: id `groundYoyoRecoveryOnDemand  `, room `city_underground/yug1417` [plaza2      (X-3,[nbsp]Y-9)]
+equip #30: id `airAttackUp                 `, room `cinema/ren475           ` [cinema      (X+0,[nbsp]Y+0)]
+equip #31: id `stunnedEnemyAttackUp        `, room `city/ren4873            ` [area3       (X+1,[nbsp]Y-11)] (blueprint $600)
+equip #32: id `stringedYoyoKnockback       `, room `city/ren4879            ` [area3       (X+6,[nbsp]Y-10)] (blueprint $1000)
+equip #33: id `projectileYoyoWallBounce    `, room `city/yug5291            ` [area3       (X+9,[nbsp]Y-11)]
+equip #34: id `rosePersistenceUp           `, room `city_underground/ren1638` [area3       (X+1,[nbsp]Y-15)]
+equip #35: id `projectileYoyoBounceAttackUp`, room `city_underground/ren3413` [area3       (X+9,[nbsp]Y-12)]
+equip #36: id `projectileYoyoHitboxWidthUp `, room `museum/yug2             ` [museum      (X+1,[nbsp]Y-3)]
+equip #37: id `stringDamage                `, room `escapehouse/lor10       ` [escapehouse (X+0,[nbsp]Y-1)]
+equip #38: id `disarmResist                `, room `dungeon3/ren543         ` [dungeon3    (X+4,[nbsp]Y-4)]
+equip #39: id `stringedYoyoNoPierce        `, room `city_interiors/ren1362  ` [area4       (X-8,[nbsp]Y-13)]
+equip #40: id `groundYoyoAutoAttack        `, room `city_underground/ren3403` [area4       (X-10,[nbsp]Y-10)] (blueprint $750)
+equip #41: id `walkTheDogPierce            `, room `city_interiors/ren1082  ` [area4       (X-2,[nbsp]Y-16)] (blueprint $550)
+equip #42: id `chargeSpeedUp               `, room `city_underground/ren3339` [area4       (X-7,[nbsp]Y-15)] (blueprint $1500)
+equip #43: id `projectileYoyoFireTrail     `, room `factory/ren289          ` [factory     (X-2,[nbsp]Y-1)]
+equip #44: id `stringedYoyoStunEveryNth    `, room `dungeon4/lor709         ` [dungeon4    (X-4,[nbsp]Y+0)] (blueprint $1300)
+
+equip count: 44 (should be 44 = 44)
+blueprint count: 12
+
+
+petalContainer # 1 (size 1): room `city/ren223             ` [plaza1       (X+0,[nbsp]Y-1)]
+petalContainer # 2 (size 1): room `city_underground/yug1700` [plaza1       (X+0,[nbsp]Y+5)]
+petalContainer # 3 (size 1): room `city/lor1924            ` [area1        (X-12,[nbsp]Y+5)]
+petalContainer # 4 (size 1): room `city/ren1447            ` [area1        (X-6,[nbsp]Y+1)]
+petalContainer # 5 (size 1): room `city_interiors/ren925   ` [area1        (X-6,[nbsp]Y+1)]
+petalContainer # 6 (size 1): room `city_interiors/lor105   ` [area1        (X-4,[nbsp]Y-3)]
+petalContainer # 7 (size 1): room `city_interiors/ren24    ` [area1        (X-4,[nbsp]Y+1)]
+petalContainer # 8 (size 1): room `city_underground/yug1038` [area1        (X-9,[nbsp]Y-3)]
+petalContainer # 9 (size 1): room `city_underground/ren1531` [area1        (X-7,[nbsp]Y-4)]
+petalContainer #10 (size 1): room `city_underground/ren797 ` [area1        (X-6,[nbsp]Y-1)]
+petalContainer #11 (size 1): room `policedep/ren66         ` [policedep    (X-1,[nbsp]Y-4)]
+petalContainer #12 (size 1): room `city_interiors/ren93    ` [trevosos     (X-10,[nbsp]Y-6)]
+petalContainer #13 (size 1): room `dungeon1/ren461         ` [dungeon1     (X-6,[nbsp]Y-3)]
+petalContainer #14 (size 1): room `dungeon1/ren4449        ` [dungeon1     (X+2,[nbsp]Y+0)]
+petalContainer #15 (size 1): room `dungeon1/ren9305        ` [dungeon1     (X+2,[nbsp]Y-2)]
+petalContainer #16 (size 1): room `dungeon1/ren7579        ` [dungeon1_oil (X-2,[nbsp]Y+5)]
+petalContainer #17 (size 1): room `city/yug4288            ` [area2        (X+1,[nbsp]Y+5)]
+petalContainer #18 (size 1): room `city/yug27              ` [area2        (X+5,[nbsp]Y+0)]
+petalContainer #19 (size 1): room `city/yug22              ` [area2        (X+9,[nbsp]Y+2)]
+petalContainer #20 (size 1): room `city_interiors/yug1     ` [area2        (X+3,[nbsp]Y-3)]
+petalContainer #21 (size 1): room `city_interiors/lor296   ` [area2        (X+5,[nbsp]Y+0)]
+petalContainer #22 (size 1): room `city_interiors/yug134   ` [area2        (X+7,[nbsp]Y-6)]
+petalContainer #23 (size 1): room `city_interiors/lor414   ` [area2        (X+7,[nbsp]Y-3)]
+petalContainer #24 (size 1): room `city_underground/ren1477` [area2        (X+2,[nbsp]Y-1)]
+petalContainer #25 (size 1): room `city_interiors/yug59    ` [area2        (X+10,[nbsp]Y-2)]
+petalContainer #26 (size 1): room `city_underground/yug23  ` [area2        (X+8,[nbsp]Y-1)]
+petalContainer #27 (size 1): room `skyscraper/lor151       ` [skyscraper   (X+0,[nbsp]Y-5)]
+petalContainer #28 (size 1): room `dungeon2/yug3           ` [dungeon2     (X-4,[nbsp]Y+6)]
+petalContainer #29 (size 1): room `dungeon2/lor533         ` [dungeon2     (X-1,[nbsp]Y-1)]
+petalContainer #30 (size 1): room `dungeon2/lor856         ` [dungeon2     (X+3,[nbsp]Y+5)]
+petalContainer #31 (size 1): room `city/ren4933            ` [area3        (X+1,[nbsp]Y-13)]
+petalContainer #32 (size 1): room `city/lor1096            ` [area3        (X+2,[nbsp]Y-8)]
+petalContainer #33 (size 1): room `city_interiors/lor442   ` [area3        (X+4,[nbsp]Y-10)]
+petalContainer #34 (size 1): room `city_interiors/yug409   ` [area3        (X+5,[nbsp]Y-13)]
+petalContainer #35 (size 1): room `city_interiors/ren1022  ` [area3        (X+6,[nbsp]Y-15)]
+petalContainer #36 (size 1): room `city_underground/yug1635` [area3        (X+3,[nbsp]Y-12)]
+petalContainer #37 (size 1): room `dungeon3/yug1           ` [dungeon3     (X+2,[nbsp]Y-5)]
+petalContainer #38 (size 1): room `dungeon3/lor133         ` [dungeon3     (X+4,[nbsp]Y-3)]
+petalContainer #39 (size 1): room `dungeon3/yug750         ` [dungeon3     (X+5,[nbsp]Y+0)]
+petalContainer #40 (size 1): room `subway/ren899           ` [subway       (X-1,[nbsp]Y+1)]
+petalContainer #41 (size 1): room `city/ren6741            ` [area4        (X-9,[nbsp]Y-15)]
+petalContainer #42 (size 1): room `city/ren6836            ` [area4        (X-8,[nbsp]Y-12)]
+petalContainer #43 (size 1): room `city/ren6356            ` [area4        (X-6,[nbsp]Y-7)]
+petalContainer #44 (size 1): room `city/ren6329            ` [area4        (X-3,[nbsp]Y-3)]
+petalContainer #45 (size 1): room `city_underground/ren2574` [area4        (X-2,[nbsp]Y-11)]
+petalContainer #46 (size 1): room `dungeon4/lor155         ` [dungeon4     (X+3,[nbsp]Y-4)]
+petalContainer #47 (size 1): room `dungeon5/ren1677        ` [dungeon5     (X-1,[nbsp]Y-6)]
+petalContainer #48 (size 1): room `dungeon5/ren1939        ` [dungeon5     (X-1,[nbsp]Y+0)]
+
+total life: 10 (should be 10), 1 life per 8 containers
+current breakdown: 3 base + 6 from petals + 1 from badges
+total petal containers: 48 (should be 48 = 48)
+petals left over: 0 (should be 0)
+
+
+bpContainer # 1 (size 1): room `city/yug5154            ` [plaza1       (X+2,[nbsp]Y+4)]
+bpContainer # 2 (size 1): room `city/ren3772            ` [area1        (X-8,[nbsp]Y-2)]
+bpContainer # 3 (size 1): room `city/ren3966            ` [area1        (X-7,[nbsp]Y-4)]
+bpContainer # 4 (size 1): room `city_interiors/ren556   ` [area1        (X-8,[nbsp]Y-7)]
+bpContainer # 5 (size 1): room `city_underground/ren3577` [area1        (X-9,[nbsp]Y-5)]
+bpContainer # 6 (size 1): room `city_underground/lor122 ` [area1        (X-4,[nbsp]Y-2)]
+bpContainer # 7 (size 1): room `dungeon1/ren6980        ` [dungeon1_oil (X+1,[nbsp]Y+4)]
+bpContainer # 8 (size 1): room `city_interiors/yug69    ` [area2        (X+2,[nbsp]Y-1)]
+bpContainer # 9 (size 1): room `city_interiors/yug47    ` [area2        (X+4,[nbsp]Y-5)]
+bpContainer #10 (size 1): room `city_underground/yug528 ` [area2        (X+6,[nbsp]Y+4)]
+bpContainer #11 (size 1): room `city_underground/yug619 ` [area2        (X+8,[nbsp]Y+1)]
+bpContainer #12 (size 1): room `skyscraper/lor97        ` [skyscraper   (X+4,[nbsp]Y-2)]
+bpContainer #13 (size 1): room `dungeon2/lor256         ` [dungeon2     (X+4,[nbsp]Y+3)]
+bpContainer #14 (size 1): room `cinema/ren215           ` [cinema       (X-1,[nbsp]Y-1)]
+bpContainer #15 (size 1): room `city/ren4894            ` [area3        (X+4,[nbsp]Y-12)]
+bpContainer #16 (size 1): room `city/ren5063            ` [area3        (X+7,[nbsp]Y-15)]
+bpContainer #17 (size 1): room `city_underground/ren3871` [area3        (X+5,[nbsp]Y-14)]
+bpContainer #18 (size 1): room `museum/yug2             ` [museum       (X+1,[nbsp]Y-3)]
+bpContainer #19 (size 1): room `dungeon3/yug762         ` [dungeon3     (X+0,[nbsp]Y-9)]
+bpContainer #20 (size 1): room `dungeon3/yug763         ` [dungeon3     (X+2,[nbsp]Y+0)]
+bpContainer #21 (size 1): room `subway/ren899           ` [subway       (X+0,[nbsp]Y+1)]
+bpContainer #22 (size 1): room `city/ren5279            ` [area4        (X-8,[nbsp]Y-15)]
+bpContainer #23 (size 1): room `city/ren6788            ` [area4        (X-3,[nbsp]Y-15)]
+bpContainer #24 (size 1): room `city_interiors/lor185   ` [area4        (X-10,[nbsp]Y-11)]
+bpContainer #25 (size 1): room `city_interiors/lor517   ` [area4        (X-2,[nbsp]Y-10)]
+bpContainer #26 (size 1): room `dungeon4/lor800         ` [dungeon4     (X+6,[nbsp]Y+0)]
+bpContainer #27 (size 1): room `dungeon5/ren1945        ` [dungeon5     (X-4,[nbsp]Y-1)]
+bpContainer #28 (size 1): room `dungeon5/ren3016        ` [dungeon5     (X+3,[nbsp]Y-5)]
+
+total bp: 26 (should be 26), 1 bp per 2 shards
+current breakdown: 3 base + 14 from shards + 9 from upgrades
+total bp shards: 28 (should be 28 = 28)
+shards left over: 0 (should be 0)
+
+
+taxiPhone # 1: room `city/ren1300` (area1)
+taxiPhone # 2: room `city/ren1496` (area5)
+taxiPhone # 3: room `city/ren2` (area1)
+taxiPhone # 4: room `city/ren223` (plaza1)
+taxiPhone # 5: room `city/ren3953` (area1)
+taxiPhone # 6: room `city/ren4872` (plaza2)
+taxiPhone # 7: room `city/ren5063` (area3)
+taxiPhone # 8: room `city/ren5255` (area4)
+taxiPhone # 9: room `city/ren5431` (area4)
+taxiPhone #10: room `city/yug208` (area2)
+taxiPhone #11: room `city/yug27` (area2)
+taxiPhone #12: room `city/yug55` (area2)
+
+taxiPhone total count: 12
+
+
+diamond # 1: id `city/lor1912/lor3168`
+diamond # 2: id `city/lor2248/lor2469`
+diamond # 3: id `city/ren5565/yug4338`
+diamond # 4: id `city/ren6367/lor3176`
+diamond # 5: id `city/yug3472/yug3524`
+diamond # 6: id `city_interiors/lor334/yug873`
+diamond # 7: id `city_interiors/ren93/lor593`
+diamond # 8: id `city_underground/yug2151/yug2152`
+diamond # 9: id `city_underground/yug619/yug1120`
+diamond #10: id `dungeon1/ren7935/lor1039`
+diamond #11: id `escapehouse/lor10/lor140`
+diamond #12: id `museum/yug2/lor1`
+diamond #13: id `tunnels/ren70/lor236`
+
+diamond total: 13
+
+
+area4Supporter # 1: id `city/ren5161/lor1240`
+area4Supporter # 2: id `city/ren5161/lor1248`
+area4Supporter # 3: id `city/ren5213/lor1244`
+area4Supporter # 4: id `city/ren5234/lor1251`
+area4Supporter # 5: id `city/ren5243/lor1247`
+area4Supporter # 6: id `city/ren5414/lor1250`
+area4Supporter # 7: id `city/ren5478/lor1249`
+area4Supporter # 8: id `city_underground/lor702/lor703`
+area4Supporter # 9: id `city_underground/ren1981/lor552`
+area4Supporter #10: id `city_underground/ren2826/lor336`
+
+area4Supporter total: 10 (should be 10)
+
+

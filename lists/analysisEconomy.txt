@@ -1,0 +1,478 @@
+===  tunnels  ===
+TOTAL Money Amount: 889.50
+
+* Collectible Money Amount: 470.00
+ - coinBronze, 17
+ - coinGold, 2
+ - crate, 18
+ - moneyBag, 4
+
+* Enemy Money Amount: 419.50
+ - hammerSwinger, 8
+ - slimeBig, 2
+ - slimeBlue, 7
+ - slimeRed, 19
+ - swimmer, 28
+
+===  safehouse  ===
+TOTAL Money Amount: 0.00
+
+* Collectible Money Amount: 0.00
+ - crate, 1
+
+* Enemy Money Amount: 0.00
+
+===  plaza1  ===
+TOTAL Money Amount: 2,598.50
+
+* Collectible Money Amount: 2,345.00
+ - coinBronze, 4
+ - coinGold, 10
+ - coinSilver, 3
+ - crate, 28
+ - moneyBag, 28
+
+* Enemy Money Amount: 253.50
+ - foodBandit2, 1
+ - hammerSwinger, 4
+ - slimeBig, 1
+ - slimeBlue, 17
+ - slimeRed, 8
+ - swimmer, 6
+
+===  area1  ===
+TOTAL Money Amount: 8,794.50
+
+* Collectible Money Amount: 6,220.00
+ - coinBronze, 35
+ - coinGold, 80
+ - coinSilver, 48
+ - crate, 11
+ - moneyBag, 42
+
+* Enemy Money Amount: 2,574.50
+ - beeDash, 40
+ - beeShoot, 11
+ - foodBandit1, 3
+ - hammerSwinger, 10
+ - ratDrone, 2
+ - ratMelee, 3
+ - ratShoot, 2
+ - slimeBig, 27
+ - slimeBlue, 31
+ - slimeRed, 35
+ - slimeShield, 5
+ - swimmer, 82
+ - turtle, 25
+
+===  policedep  ===
+TOTAL Money Amount: 1,148.00
+
+* Collectible Money Amount: 436.00
+ - coinGold, 3
+ - coinSilver, 2
+ - moneyBag, 4
+
+* Enemy Money Amount: 712.00
+ - beeDash, 6
+ - beeShoot, 37
+ - hammerSwinger, 1
+ - ratShoot, 1
+ - slimeRed, 18
+
+===  trevosos  ===
+TOTAL Money Amount: 7,416.00
+
+* Collectible Money Amount: 3,730.00
+ - coinGold, 3
+ - moneyBag, 12
+
+* Enemy Money Amount: 3,686.00
+ - beeDash, 24
+ - beeShoot, 5
+ - cosplayHelix, 1
+ - cosplayMage, 1
+ - cosplayNinja, 5
+ - cosplayProtect, 11
+ - cosplaySamurai, 2
+ - foodBandit1, 9
+ - foodBandit2, 11
+ - hammerSwinger, 23
+ - ratDrone, 4
+ - ratMelee, 46
+ - ratScooter, 10
+ - ratShoot, 2
+ - slimeBig, 8
+ - slimeBlue, 17
+ - slimeDrill, 34
+ - slimePunch, 7
+ - slimeRed, 16
+ - slimeShield, 10
+ - sportsBatter, 3
+ - sportsHockey, 2
+ - sportsSkater, 1
+ - sportsSoccer, 2
+ - swimmer, 55
+ - turtle, 5
+
+===  dungeon1  ===
+TOTAL Money Amount: 4,026.50
+
+* Collectible Money Amount: 2,773.00
+ - coinBronze, 6
+ - coinGold, 40
+ - coinSilver, 14
+ - moneyBag, 28
+
+* Enemy Money Amount: 1,253.50
+ - beeDash, 23
+ - beeShoot, 8
+ - foodBandit1, 4
+ - ratDrone, 12
+ - ratMelee, 20
+ - ratScooter, 12
+ - slimeBig, 14
+ - slimeBlue, 12
+ - slimeRed, 44
+ - swimmer, 11
+ - turtle, 4
+
+===  dungeon1_oil  ===
+TOTAL Money Amount: 1,711.50
+
+* Collectible Money Amount: 1,075.00
+ - coinBronze, 39
+ - coinGold, 25
+ - coinSilver, 12
+ - moneyBag, 7
+
+* Enemy Money Amount: 636.50
+ - beeDash, 7
+ - beeShoot, 1
+ - foodBandit1, 4
+ - hammerSwinger, 2
+ - ratBoss, 1
+ - ratDrone, 13
+ - ratMelee, 15
+ - ratScooter, 14
+ - slimeBig, 2
+ - slimeRed, 4
+
+===  area2  ===
+TOTAL Money Amount: 8,452.00
+
+* Collectible Money Amount: 6,292.00
+ - coinBronze, 22
+ - coinGold, 101
+ - coinSilver, 46
+ - crate, 55
+ - moneyBag, 80
+
+* Enemy Money Amount: 2,160.00
+ - beeDash, 30
+ - beeShoot, 24
+ - foodBandit1, 30
+ - foodBandit2, 2
+ - hammerSwinger, 15
+ - slimeBig, 24
+ - slimeBlue, 33
+ - slimeDrill, 1
+ - slimePunch, 5
+ - slimeRed, 73
+ - slimeShield, 11
+ - swimmer, 22
+ - turtle, 1
+
+===  skyscraper  ===
+TOTAL Money Amount: 1,027.00
+
+* Collectible Money Amount: 742.00
+ - coinBronze, 30
+ - coinGold, 15
+ - coinSilver, 4
+ - moneyBag, 5
+
+* Enemy Money Amount: 285.00
+ - beeDash, 15
+ - beeShoot, 6
+ - hammerSwinger, 5
+ - slimeBig, 1
+ - slimeBlue, 2
+ - slimeRed, 3
+
+===  dungeon2  ===
+TOTAL Money Amount: 15,460.50
+
+* Collectible Money Amount: 14,316.00
+ - coinBronze, 28
+ - coinGold, 88
+ - coinSilver, 23
+ - crate, 1
+ - moneyBag, 36
+
+* Enemy Money Amount: 1,144.50
+ - beeDash, 7
+ - hammerSwinger, 3
+ - slimeBig, 4
+ - slimeBlue, 21
+ - slimeDrill, 15
+ - slimePunch, 21
+ - slimeRed, 7
+ - slimeShield, 24
+ - slimeTycoon, 1
+ - swimmer, 4
+
+===  plaza2  ===
+TOTAL Money Amount: 1,629.50
+
+* Collectible Money Amount: 1,580.00
+ - coinGold, 3
+ - moneyBag, 14
+
+* Enemy Money Amount: 49.50
+ - turtle, 3
+
+===  cinema  ===
+TOTAL Money Amount: 1,028.00
+
+* Collectible Money Amount: 842.00
+ - coinBronze, 4
+ - coinGold, 22
+ - crate, 3
+ - moneyBag, 6
+
+* Enemy Money Amount: 186.00
+ - hammerSwinger, 12
+
+===  area3  ===
+TOTAL Money Amount: 4,800.00
+
+* Collectible Money Amount: 3,800.00
+ - coinBronze, 21
+ - coinGold, 28
+ - coinSilver, 18
+ - crate, 24
+ - moneyBag, 36
+
+* Enemy Money Amount: 1,000.00
+ - beeDash, 1
+ - beeShoot, 4
+ - foodBandit1, 6
+ - foodBandit2, 4
+ - hammerSwinger, 11
+ - ratDrone, 10
+ - ratMelee, 3
+ - ratScooter, 4
+ - slimeBlue, 4
+ - slimeDrill, 9
+ - slimePunch, 5
+ - slimeRed, 7
+ - slimeShield, 19
+ - swimmer, 2
+
+===  museum  ===
+TOTAL Money Amount: 2,815.00
+
+* Collectible Money Amount: 2,533.00
+ - coinGold, 47
+ - coinSilver, 1
+ - moneyBag, 7
+
+* Enemy Money Amount: 282.00
+ - slimeRed, 52
+ - slimeShield, 10
+
+===  escapehouse  ===
+TOTAL Money Amount: 900.00
+
+* Collectible Money Amount: 900.00
+ - coinGold, 15
+ - moneyBag, 3
+
+* Enemy Money Amount: 0.00
+
+===  dungeon3  ===
+TOTAL Money Amount: 3,093.00
+
+* Collectible Money Amount: 1,343.00
+ - coinBronze, 5
+ - coinGold, 19
+ - coinSilver, 4
+ - crate, 6
+ - moneyBag, 11
+
+* Enemy Money Amount: 1,750.00
+ - beeDash, 2
+ - beeShoot, 4
+ - cosplayBoss, 1
+ - cosplayHelix, 17
+ - cosplayMist1, 10
+ - cosplayMist2, 10
+ - cosplayNinja, 16
+ - cosplayProtect, 41
+ - cosplaySamurai, 9
+ - fairyToxy, 1
+ - foodBandit1, 4
+ - foodBandit2, 1
+ - ratDrone, 2
+ - ratScooter, 6
+ - slimeBlue, 3
+ - slimeRed, 25
+ - slimeShield, 9
+
+===  subway  ===
+TOTAL Money Amount: 3,539.50
+
+* Collectible Money Amount: 1,976.00
+ - coinBronze, 23
+ - coinGold, 47
+ - coinSilver, 11
+ - moneyBag, 18
+
+* Enemy Money Amount: 1,563.50
+ - beeDash, 7
+ - beeShoot, 3
+ - foodBandit2, 1
+ - hammerSwinger, 1
+ - ratDrone, 1
+ - ratMelee, 12
+ - ratScooter, 4
+ - slimeBlue, 3
+ - slimeBomb, 31
+ - slimeDrill, 24
+ - slimePunch, 9
+ - slimeRed, 1
+ - slimeShield, 20
+ - slimeTycoon, 1
+
+===  area4  ===
+TOTAL Money Amount: 7,728.50
+
+* Collectible Money Amount: 5,648.00
+ - coinBronze, 16
+ - coinGold, 41
+ - coinSilver, 14
+ - crate, 55
+ - moneyBag, 67
+
+* Enemy Money Amount: 2,080.50
+ - beeDash, 16
+ - beeShoot, 18
+ - foodBandit1, 4
+ - foodBandit2, 4
+ - hammerSwinger, 4
+ - ratDrone, 53
+ - ratMelee, 12
+ - ratScooter, 9
+ - slimeBig, 18
+ - slimeBlue, 26
+ - slimeDrill, 9
+ - slimePunch, 3
+ - slimeRed, 38
+ - slimeShield, 16
+ - swimmer, 2
+ - turtle, 2
+
+===  factory  ===
+TOTAL Money Amount: 393.50
+
+* Collectible Money Amount: 250.00
+ - moneyBag, 1
+
+* Enemy Money Amount: 143.50
+ - beeShoot, 7
+ - ratMelee, 3
+ - slimeBig, 2
+ - slimeBlue, 2
+ - swimmer, 2
+
+===  dungeon4  ===
+TOTAL Money Amount: 3,140.50
+
+* Collectible Money Amount: 1,685.00
+ - coinBronze, 7
+ - coinGold, 41
+ - coinSilver, 6
+ - moneyBag, 5
+
+* Enemy Money Amount: 1,455.50
+ - beeShoot, 5
+ - foodBandit1, 2
+ - foodBandit2, 2
+ - ratDrone, 6
+ - ratScooter, 1
+ - slimeBlue, 2
+ - slimeRed, 35
+ - sportsBatter, 15
+ - sportsCharger, 31
+ - sportsHockey, 2
+ - sportsSkater, 17
+ - sportsSoccer, 15
+ - turtle, 1
+
+===  area5  ===
+TOTAL Money Amount: 50.00
+
+* Collectible Money Amount: 50.00
+ - moneyBag, 2
+
+* Enemy Money Amount: 0.00
+
+===  dungeon5  ===
+TOTAL Money Amount: 3,512.50
+
+* Collectible Money Amount: 1,571.00
+ - coinBronze, 19
+ - coinGold, 15
+ - crate, 17
+ - moneyBag, 9
+
+* Enemy Money Amount: 1,941.50
+ - beeDash, 22
+ - beeShoot, 2
+ - cosplayHelix, 7
+ - cosplayNinja, 2
+ - cosplayProtect, 11
+ - cosplaySamurai, 5
+ - foodBandit1, 2
+ - foodBandit2, 3
+ - hammerSwinger, 10
+ - ratDrone, 4
+ - ratMelee, 3
+ - ratScooter, 4
+ - ratShoot, 2
+ - slimeBig, 3
+ - slimeBlue, 13
+ - slimeRed, 23
+ - sportsBatter, 7
+ - sportsSkater, 9
+ - sportsSoccer, 2
+ - swimmer, 11
+ - turtle, 2
+
+===  city  ===
+TOTAL Money Amount: 0.00
+
+* Collectible Money Amount: 0.00
+
+* Enemy Money Amount: 0.00
+
+===  city_underground  ===
+TOTAL Money Amount: 0.00
+
+* Collectible Money Amount: 0.00
+
+* Enemy Money Amount: 0.00
+
+===  dungeon5_lab  ===
+TOTAL Money Amount: 255.00
+
+* Collectible Money Amount: 146.00
+ - coinBronze, 26
+ - coinGold, 12
+
+* Enemy Money Amount: 109.00
+ - beeDash, 12
+ - cosplayNinja, 1
+ - madameBoss, 1
+
