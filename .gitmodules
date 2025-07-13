@@ -1,0 +1,6 @@
+[submodule "rando"]
+	path = rando
+	url = https://github.com/idea149/Pipistrello-Randomizer
+[submodule "cheats"]
+	path = cheats
+	url = https://github.com/idea149/Pipistrello-More-Cheats/
